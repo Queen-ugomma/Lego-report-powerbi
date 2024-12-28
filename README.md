@@ -58,3 +58,6 @@ Tools Used
 Power BI Desktop: For data preparation, analysis, and visualization.
 Power Query: For data cleaning and transformation.
 DAX (Data Analysis Expressions): For custom calculations.
+
+![Dashboard Overview](path-to-your-screenshot.png)
+
